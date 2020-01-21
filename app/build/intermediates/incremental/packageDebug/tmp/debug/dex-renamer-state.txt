@@ -1,7 +1,0 @@
-#Mon Jan 20 15:50:54 PST 2020
-base.0=/Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=/Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
