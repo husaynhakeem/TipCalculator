@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:1-20:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/806a36b432f4291c4ab1569a0638dc73/constraintlayout-2.0.0-beta4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/7e5becd1e7b281f721e0b8ecd6961c3e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/d5917b58eb1523a009173038184b9951/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/df2fa28bed1535467f46e7916db29524/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/6fe3420358cd6bb3ee22b9dafe367ed5/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/8dd328da74785deb7db35f593bb7a128/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/a0d517458414941d7fd976071fa82d54/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/cf471eb5bcfb664f1df37334725e78ee/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/e8988fb19e07195f53fc81a6738acf63/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/d57dadef628f72303a7ab57760c05e62/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/276425ea66998cf40253c9e57645bb35/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/bac587e6063a11dfa40f3280cd87cc99/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/343827566c8a2978295d09436cb43235/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/24c5101fc236beb071f6c49fe14072ae/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/df3bcec6609dbd378e09474c5f8058c0/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/51b485d98b2060416bdd35eb868eaa4f/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/deaf0f65d878e5128c7c347cf9df24e7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/242e5d5ee38bed897aa1fd4487cb3d09/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/7543c8d965969387de7ca64105ad4264/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/9541c3bf3aec37ce78fa97c422d21006/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/4991cbc8c9f6fc96c803c568bd455bf7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/427bba8864e2a5524ded8e10020c3fb8/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:1-20:12
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:2:5-46
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:1-20:12
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:4:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/806a36b432f4291c4ab1569a0638dc73/constraintlayout-2.0.0-beta4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/806a36b432f4291c4ab1569a0638dc73/constraintlayout-2.0.0-beta4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/343827566c8a2978295d09436cb43235/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/343827566c8a2978295d09436cb43235/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/df3bcec6609dbd378e09474c5f8058c0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/df3bcec6609dbd378e09474c5f8058c0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/343827566c8a2978295d09436cb43235/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.raywenderlich.tipcalculator.MainActivity
+ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/806a36b432f4291c4ab1569a0638dc73/constraintlayout-2.0.0-beta4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta4] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/806a36b432f4291c4ab1569a0638dc73/constraintlayout-2.0.0-beta4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/7e5becd1e7b281f721e0b8ecd6961c3e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/7e5becd1e7b281f721e0b8ecd6961c3e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/d5917b58eb1523a009173038184b9951/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/d5917b58eb1523a009173038184b9951/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/df2fa28bed1535467f46e7916db29524/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/df2fa28bed1535467f46e7916db29524/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/6fe3420358cd6bb3ee22b9dafe367ed5/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/6fe3420358cd6bb3ee22b9dafe367ed5/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/8dd328da74785deb7db35f593bb7a128/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/8dd328da74785deb7db35f593bb7a128/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/a0d517458414941d7fd976071fa82d54/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/a0d517458414941d7fd976071fa82d54/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/cf471eb5bcfb664f1df37334725e78ee/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/cf471eb5bcfb664f1df37334725e78ee/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/e8988fb19e07195f53fc81a6738acf63/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/e8988fb19e07195f53fc81a6738acf63/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/d57dadef628f72303a7ab57760c05e62/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/d57dadef628f72303a7ab57760c05e62/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/276425ea66998cf40253c9e57645bb35/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/276425ea66998cf40253c9e57645bb35/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/bac587e6063a11dfa40f3280cd87cc99/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/bac587e6063a11dfa40f3280cd87cc99/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/343827566c8a2978295d09436cb43235/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/343827566c8a2978295d09436cb43235/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/24c5101fc236beb071f6c49fe14072ae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/24c5101fc236beb071f6c49fe14072ae/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/df3bcec6609dbd378e09474c5f8058c0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/df3bcec6609dbd378e09474c5f8058c0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/51b485d98b2060416bdd35eb868eaa4f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/51b485d98b2060416bdd35eb868eaa4f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/deaf0f65d878e5128c7c347cf9df24e7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/deaf0f65d878e5128c7c347cf9df24e7/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/242e5d5ee38bed897aa1fd4487cb3d09/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/242e5d5ee38bed897aa1fd4487cb3d09/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/7543c8d965969387de7ca64105ad4264/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/7543c8d965969387de7ca64105ad4264/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/9541c3bf3aec37ce78fa97c422d21006/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/9541c3bf3aec37ce78fa97c422d21006/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/4991cbc8c9f6fc96c803c568bd455bf7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/4991cbc8c9f6fc96c803c568bd455bf7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/427bba8864e2a5524ded8e10020c3fb8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/husaynhakeem/.gradle/caches/transforms-2/files-2.1/427bba8864e2a5524ded8e10020c3fb8/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/husaynhakeem/Desktop/dev/raywenderlich_tryout/TipCalculator begin/app/src/main/AndroidManifest.xml

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_amount">Montant de l\'addition</string>
+    <string name="tip_percentage">Pourcentage de pourboire</string>
+    <string name="tip_amount">Pourboire: %.2f</string>
+    <string name="bill_total">Total: %.2f</string>
+</resources>
